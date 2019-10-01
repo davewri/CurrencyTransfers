@@ -11,7 +11,7 @@ Example iteration:
 
 Tests are run in Chrome
 
-#Example Results
+# Example Results
 -------------------------------------------------------
  T E S T S
 -------------------------------------------------------
