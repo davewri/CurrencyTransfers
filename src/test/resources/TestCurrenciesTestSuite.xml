@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite">
+
+    <test name="TestCurrencies">
+        <classes>
+            <class name="tests.TestCurrency"></class>
+        </classes>
+    </test>
+</suite>
